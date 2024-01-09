@@ -1,10 +1,9 @@
 # Hello Hello Fellow < Developers/ >!
-I am Anmol and my lucky number is ~~1032~~.
+I am Anmol and my lucky number is ~~1032~~(yes, striking it gives luck) .
 My hoby is to create games.
 
 ![Anmol1032](main.gif)
 
-That was java genrated [link](Main.java) (if you saw that video above) \
 and Yes, I like **Java** language :+1:
 
 # Some jokes for you
